@@ -4,7 +4,7 @@
 <img align="right" align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peruguhari&label=Profile%20views&color=0e75b6&style=flat" alt="peruguhari" /> </p>
 
-- 🔭 Pursuing my Studies at **SIMATS University**
+- 🔭 Graudated at **SIMATS University**
 
 - 🌱 I’m currently learning **Apache Hadoop**
 
