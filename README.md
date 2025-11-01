@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)](https://github.com/PeruguHari.io)
 <h1 align="center">Hi 👋, I'm Perugu Hari</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peruguhari&label=Profile%20views&color=0e75b6&style=flat" alt="peruguhari" /> </p>
 
